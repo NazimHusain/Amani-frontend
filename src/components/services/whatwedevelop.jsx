@@ -1,7 +1,7 @@
 import React from 'react';
 import ecommerce from '../../assets/icon/pages-img/ecommerce.png'
 import Business from '../../assets/icon/pages-img/business.jpg'
-import MobileApp from '../../assets/icon/pages-img/mobileApp2.png'
+import MobileApp from '../../assets/icon/pages-img/mobileapp2.png'
 import Website from '../../assets/icon/pages-img/website2.png'
 
 const cards = [
