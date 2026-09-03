@@ -1,5 +1,5 @@
 import React from 'react';
-import sec1Image1 from '../assets/Dashboard/Hero_Dashboard.png';
+import sec1Image1 from '../assets/Dashboard/Hero_Dashboard-II.png';
 import ExpertiseSection from '../components/ExpertiseSection.jsx'
 import TechScroll from '../components/technologySection.jsx'
 import Technologies from '../components/Technologies.jsx'
